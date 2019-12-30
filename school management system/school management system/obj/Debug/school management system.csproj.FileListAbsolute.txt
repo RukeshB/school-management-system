@@ -1,0 +1,244 @@
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\school management system.exe.config
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\school management system.exe
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\school management system.pdb
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\Newtonsoft.Json.dll
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\System.Web.Http.dll
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\bin\Debug\System.Web.Http.xml
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school management system.exe
+c:\users\rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school management system.pdb
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\Rukesh\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\Rukesh\documents\visual studio 2013\Projects\school management system\school management system\obj\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\school management system.exe.config
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school management system.exe
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school management system.pdb
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\school management system.exe
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\school management system.pdb
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\System.Web.Http.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\bin\Debug\System.Web.Http.xml
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system\school management system\obj\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\school management system.exe.config
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school management system.exe
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school management system.pdb
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\school management system.exe
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\school management system.pdb
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\System.Web.Http.dll
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Rukesh\Desktop\school management system\school management system\bin\Debug\System.Web.Http.xml
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\Rukesh\Desktop\school management system\school management system\obj\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\school management system.exe.config
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\school management system.exe
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\school management system.pdb
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\System.Web.Http.dll
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wve\Documents\school management system\school management system\bin\Debug\System.Web.Http.xml
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school management system.exe
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school management system.pdb
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Exam.exam_terminal.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.loding_form.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.functions.Exam.result.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.message.resources
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\wve\Documents\school management system\school management system\obj\Debug\school_management_system.login.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school management system.csprojResolveAssemblyReference.cache
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Exam.exam_terminal.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Exam.result.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.loding_form.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.login.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.message.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\school management system.exe.config
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\school management system.exe
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\school management system.pdb
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\System.Web.Http.dll
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wve\Documents\school management system old\school management system\bin\Debug\System.Web.Http.xml
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school management system.exe
+C:\Users\wve\Documents\school management system old\school management system\obj\Debug\school management system.pdb
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\school management system.exe.config
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\school management system.exe
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\school management system.pdb
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\System.Web.Http.dll
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\bin\Debug\System.Web.Http.xml
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.account.account_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.account.bill.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.account.fee_payment.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.account.fee_structure.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Dashboard.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.dashboard_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.dashboard.setting.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Exam.exam_terminal.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Exam.result.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Exam.add_subject.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Exam.exam_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Exam.marks_obtain.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.libary.book_menu.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.libary.issue.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.libary.libary_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.libary.member.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.libary.return_book.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.manage.manage_class.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.manage.manage_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.manage.manage_teacher.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.student.admission_form.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.student.promot_student.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.student.student_info.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.student.student_main.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.functions.Teacher.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.loding_form.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.login.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.main_form.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.message.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.Properties.Resources.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school_management_system.school_bus.resources
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school management system.csproj.GenerateResource.Cache
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school management system.exe
+C:\Users\wve\Documents\Visual Studio 2013\Projects\school management system(new)\school management system\obj\Debug\school management system.pdb

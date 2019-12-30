@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9896772B-4506-45EA-914D-C864A7613D51}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>school_management_system</RootNamespace>
+    <AssemblyName>school management system</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\C sharp\dll fo programing\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>D:\vedio\C sharp\dll fo programing\Microsoft.Office.Interop.Excel\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.TeamFoundation.Client, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.TeamFoundation.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.TeamFoundation.Diff, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualStudio.Services.Client, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.Services.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.VisualStudio.Services.WebApi, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="MySql.Data, Version=6.9.10.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.9.10\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="class\database.cs" />
+    <Compile Include="class\email_validation.cs" />
+    <Compile Include="class\export.cs" />
+    <Compile Include="class\id.cs" />
+    <Compile Include="class\load_datagridview.cs" />
+    <Compile Include="functions\account\account_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\account\account_main.Designer.cs">
+      <DependentUpon>account_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\account\bill.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\account\bill.Designer.cs">
+      <DependentUpon>bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\account\fee payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\account\fee payment.Designer.cs">
+      <DependentUpon>fee payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\account\fee structure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\account\fee structure.Designer.cs">
+      <DependentUpon>fee structure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\dashboard\Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\dashboard\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\dashboard\dashboard_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\dashboard\dashboard_main.Designer.cs">
+      <DependentUpon>dashboard_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\dashboard\setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\dashboard\setting.Designer.cs">
+      <DependentUpon>setting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\Exam\exam_terminal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\Exam\exam_terminal.Designer.cs">
+      <DependentUpon>exam_terminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\Exam\result.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\Exam\result.Designer.cs">
+      <DependentUpon>result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\manage\add_subject.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\manage\add_subject.Designer.cs">
+      <DependentUpon>add_subject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\Exam\exam_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\Exam\exam_main.Designer.cs">
+      <DependentUpon>exam_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\Exam\marks obtain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\Exam\marks obtain.Designer.cs">
+      <DependentUpon>marks obtain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\libary\book menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\libary\book menu.Designer.cs">
+      <DependentUpon>book menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\libary\issue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\libary\issue.Designer.cs">
+      <DependentUpon>issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\libary\libary_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\libary\libary_main.Designer.cs">
+      <DependentUpon>libary_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\libary\member.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\libary\member.Designer.cs">
+      <DependentUpon>member.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\libary\return.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\libary\return.Designer.cs">
+      <DependentUpon>return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\manage\manage_class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\manage\manage_class.Designer.cs">
+      <DependentUpon>manage_class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\manage\manage_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\manage\manage_main.Designer.cs">
+      <DependentUpon>manage_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\manage\manage_teacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\manage\manage_teacher.Designer.cs">
+      <DependentUpon>manage_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\student\admission form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\student\admission form.Designer.cs">
+      <DependentUpon>admission form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\student\promot_student.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\student\promot_student.Designer.cs">
+      <DependentUpon>promot_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\student\student_info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\student\student_info.Designer.cs">
+      <DependentUpon>student_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\student\student_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\student\student_main.Designer.cs">
+      <DependentUpon>student_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="functions\Teacher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\Teacher.Designer.cs">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loding_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loding_form.Designer.cs">
+      <DependentUpon>loding_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main form.Designer.cs">
+      <DependentUpon>main form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="message.Designer.cs">
+      <DependentUpon>message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="functions\school bus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="functions\school bus.Designer.cs">
+      <DependentUpon>school bus.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="functions\account\account_main.resx">
+      <DependentUpon>account_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\account\bill.resx">
+      <DependentUpon>bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\account\fee payment.resx">
+      <DependentUpon>fee payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\account\fee structure.resx">
+      <DependentUpon>fee structure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\dashboard\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\dashboard\dashboard_main.resx">
+      <DependentUpon>dashboard_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\dashboard\setting.resx">
+      <DependentUpon>setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\Exam\exam_terminal.resx">
+      <DependentUpon>exam_terminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\Exam\result.resx">
+      <DependentUpon>result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\manage\add_subject.resx">
+      <DependentUpon>add_subject.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\Exam\exam_main.resx">
+      <DependentUpon>exam_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\Exam\marks obtain.resx">
+      <DependentUpon>marks obtain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\libary\book menu.resx">
+      <DependentUpon>book menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\libary\issue.resx">
+      <DependentUpon>issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\libary\libary_main.resx">
+      <DependentUpon>libary_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\libary\member.resx">
+      <DependentUpon>member.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\libary\return.resx">
+      <DependentUpon>return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\manage\manage_class.resx">
+      <DependentUpon>manage_class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\manage\manage_main.resx">
+      <DependentUpon>manage_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\manage\manage_teacher.resx">
+      <DependentUpon>manage_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\student\admission form.resx">
+      <DependentUpon>admission form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\student\promot_student.resx">
+      <DependentUpon>promot_student.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\student\student_info.resx">
+      <DependentUpon>student_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\student\student_main.resx">
+      <DependentUpon>student_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="functions\Teacher.resx">
+      <DependentUpon>Teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loding_form.resx">
+      <DependentUpon>loding_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main form.resx">
+      <DependentUpon>main form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="message.resx">
+      <DependentUpon>message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="functions\school bus.resx">
+      <DependentUpon>school bus.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A-teachers-journey-with-student-self-advocacy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Young-student.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\student-engagement-2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
